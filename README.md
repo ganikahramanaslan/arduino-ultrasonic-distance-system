@@ -30,4 +30,4 @@ An ultrasonic distance measurement and warning system developed using Arduino Un
 - Embedded programming
 
 ## Author
-Electrical & Electronics Engineering Student Gani Kahraman Aslan 2026 Ankara Turkey
+OSTIM Technical University Electrical & Electronics Engineering Student Gani Kahraman Aslan 2026 Ankara Turkey
